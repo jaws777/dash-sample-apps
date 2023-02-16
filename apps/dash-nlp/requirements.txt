@@ -70,7 +70,7 @@ tqdm==4.43.0
 ujson==1.35
 urllib3==1.25.8
 wasabi==0.6.0
-Werkzeug==1.0.0
+Werkzeug==2.2.3
 wordcloud==1.6.0
 wrapt==1.10.11
 zipp==3.1.0
